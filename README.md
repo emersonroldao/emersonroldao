@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Emerson
 
-- 🔭 Hoje trabalho com Python
-- 🌱 Estudando Python
+- 🔭 Apaixonado por tecnologia e programação
+- 🌱 Estudando Python | Análise de Dados | Python para Finanças
 
 <div align="center">
   <a href="https://github.com/emersonroldao">
